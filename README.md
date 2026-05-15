@@ -1,0 +1,1 @@
+Created a freestyle website to familiarize myself with git commands
